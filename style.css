@@ -1,0 +1,21 @@
+/* Common CSS */
+h1,h2,h3,h4,h5,h6{
+    font-family: 'EB Garamond', serif;
+}
+p,a,span{
+    font-family: 'Poppins', sans-serif;
+}
+.cmn-btn-one{
+    color: #fff;
+    background: #B68C5A;
+    padding: 15px 20px ;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 600;
+}
+.primary-color{
+    color: #B68C5A;
+}
+.secondary-color{
+    color: #707070;
+}
